@@ -1,0 +1,38 @@
+
+#animal-fact { font-style: italic;
+
+}
+span {
+	font-weight: bold;
+}
+ul {
+	text-align: left;
+	list-style: none;
+	padding-left: 0;
+}
+h3 {
+  font-size: 2em;
+  align-content: center;
+}
+body {
+	border: 1px solid #888888;
+	border-radius: 10px; 
+	padding: 15px;
+	box-shadow: 10px 15px 10px #888888;
+	font-family: sans-seri;
+	width: 300px;
+}
+#card{
+	border: 1px solid #888888;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: justify;
+
+}
+img{
+	padding-bottom: 10px;
+	border: 1px solid #888888;
+	border-radius: 10px;
+	
+}
